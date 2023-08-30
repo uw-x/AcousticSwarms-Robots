@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MAX14589EEWLT
+#
+DEF MAX14589EEWLT U 0 40 Y Y 1 L N
+F0 "U" -500 839 50 H V L BNN
+F1 "MAX14589EEWLT" -500 -957 50 H V L BNN
+F2 "BGA9N40P3X3_126X126X69N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+S -500 -800 500 800 0 0 16 f
+X CB A2 -700 500 200 R 40 40 0 0 B 
+X COM1 B1 -700 300 200 R 40 40 0 0 B 
+X COM2 B3 -700 200 200 R 40 40 0 0 B 
+X NC1 A1 -700 0 200 R 40 40 0 0 B 
+X NC2 A3 -700 -100 200 R 40 40 0 0 B 
+X NO1 C1 -700 -300 200 R 40 40 0 0 B 
+X NO2 C3 -700 -400 200 R 40 40 0 0 B 
+X VCCEN C2 700 700 200 L 40 40 0 0 W 
+X GND B2 700 -600 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

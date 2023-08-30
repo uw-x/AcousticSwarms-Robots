@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/GyroHat/GyroHat.kicad_sch</source>
+    <date>Fri 04 Aug 2023 09:19:59 AM</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>GyroHat.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062a6f7af</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>FTMH-106-03-L-DV</value>
+      <footprint>Zooids:SAMTEC_FTMH-106-03-L-DV</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/samtec-inc/FTMH-106-03-L-DV/1104447</datasheet>
+      <fields>
+        <field name="MANUFACTURER">SAMTEC</field>
+      </fields>
+      <libsource lib="FTMH-106-03-L-DV" part="FTMH-106-03-L-DV" description=""/>
+      <property name="MANUFACTURER" value="SAMTEC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062967a2a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062be5dc4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062be5dca</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006291947b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006291a267</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>Zooids:Wire Pad</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062beaf73</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>Zooids:Wire Pad</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062becf1b</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>Zooids:Wire Pad</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bed9f5</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>Zooids:Wire Pad</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062bdfaca</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>Zooids:Wire Pad</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062be0076</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ISM330DLCTR</value>
+      <footprint>Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/stmicroelectronics/ISM330DLCTR/7565501</datasheet>
+      <libsource lib="ISM330DLCTR" part="ISM330DLCTR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="GyroHat.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000629ed7b7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FTMH-106-03-L-DV" part="FTMH-106-03-L-DV">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">FTMH-106-03-L-DV</field>
+        <field name="Footprint">SAMTEC_FTMH-106-03-L-DV</field>
+        <field name="MANUFACTURER">SAMTEC</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+        <pin num="04" name="04" type="passive"/>
+        <pin num="05" name="05" type="passive"/>
+        <pin num="06" name="06" type="passive"/>
+        <pin num="07" name="07" type="passive"/>
+        <pin num="08" name="08" type="passive"/>
+        <pin num="09" name="09" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM330DLCTR" part="ISM330DLCTR">
+      <footprints>
+        <fp>LGA-14L_2P5X3X0P83_STM</fp>
+        <fp>LGA-14L_2P5X3X0P83_STM-M</fp>
+        <fp>LGA-14L_2P5X3X0P83_STM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ISM330DLCTR</field>
+        <field name="Footprint">LGA-14L_2P5X3X0P83_STM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDO/SA0" type="bidirectional"/>
+        <pin num="2" name="SDx" type="unspecified"/>
+        <pin num="3" name="SCx" type="unspecified"/>
+        <pin num="4" name="INT1" type="output"/>
+        <pin num="5" name="VDDIO" type="power_in"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+        <pin num="9" name="INT2" type="output"/>
+        <pin num="10" name="OCS_Aux" type="unspecified"/>
+        <pin num="11" name="SDO_Aux" type="unspecified"/>
+        <pin num="12" name="CS" type="input"/>
+        <pin num="13" name="SCL" type="input"/>
+        <pin num="14" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="FTMH-106-03-L-DV">
+      <uri>../libs/FTMH-106-03-L-DV.lib</uri>
+    </library>
+    <library logical="ISM330DLCTR">
+      <uri>../libs/ISM330DLCTR.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="04" pinfunction="04" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SDO/SA0" pintype="bidirectional"/>
+      <node ref="U2" pin="11" pinfunction="SDO_Aux" pintype="unspecified"/>
+      <node ref="U2" pin="12" pinfunction="CS" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="SDx" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="SCx" pintype="unspecified"/>
+      <node ref="U2" pin="5" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/ENA">
+      <node ref="J1" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/INT">
+      <node ref="J1" pin="01" pinfunction="01" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="INT1" pintype="output"/>
+    </net>
+    <net code="4" name="/O1">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/O2">
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/SCL">
+      <node ref="J1" pin="09" pinfunction="09" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="7" name="/SDA">
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="06" pinfunction="06" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="9" name="unconnected-(J1-Pad02)">
+      <node ref="J1" pin="02" pinfunction="02" pintype="passive+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(J1-Pad03)">
+      <node ref="J1" pin="03" pinfunction="03" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J1-Pad05)">
+      <node ref="J1" pin="05" pinfunction="05" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(J1-Pad07)">
+      <node ref="J1" pin="07" pinfunction="07" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="INT2" pintype="output+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="OCS_Aux" pintype="unspecified+no_connect"/>
+    </net>
+  </nets>
+</export>

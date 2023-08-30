@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/Robot/Device.kicad_sch</source>
+    <date>Mon 07 Aug 2023 11:32:29 AM</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Device.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BCLK1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063015f92</tstamps>
+    </comp>
+    <comp ref="BINT1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c38ae5</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061f68a46</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061f42f7a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>NO</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619431c3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a73de8</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619b1107</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b1e24d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a29fe7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>NO</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061da6fc3</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000617a659a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619de36e</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619eb03d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622106d7</tstamps>
+    </comp>
+    <comp ref="DIN1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063015f9a</tstamps>
+    </comp>
+    <comp ref="DRV1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b120bf</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>10118194-0001LF</value>
+      <footprint>AcousticSwarm:AMPHENOL_10118194-0001LF</footprint>
+      <datasheet>https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf</datasheet>
+      <fields>
+        <field name="Description">USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.8mm</field>
+        <field name="Manufacturer">Amphenol ICC (FCI)</field>
+        <field name="Manufacturer P/N">10118194-0001LF</field>
+        <field name="PARTREV">B</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">609-4618-2-ND</field>
+      </fields>
+      <libsource lib="10118192-0002LF" part="10118192-0002LF" description=""/>
+      <property name="MANUFACTURER" value=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.8mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="B"/>
+      <property name="Manufacturer" value="Amphenol ICC (FCI)"/>
+      <property name="Description" value="USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole"/>
+      <property name="Manufacturer P/N" value="10118194-0001LF"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="609-4618-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b87e29</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>FTMH-106-03-L-DV</value>
+      <footprint>AcousticSwarm:SAMTEC_FTMH-106-03-L-DV</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/527/ftmh_sm-2854321.pdf</datasheet>
+      <fields>
+        <field name="Description">Board to Board &amp; Mezzanine Connectors 1.00 mm Surface Mount Micro Terminal Strip</field>
+        <field name="Manufacturer">Samtec</field>
+        <field name="Manufacturer P/N">FTMH-106-03-L-DV</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Vendor P/N">200-FTMH10603LDV</field>
+      </fields>
+      <libsource lib="FTMH-106-03-L-DV" part="FTMH-106-03-L-DV" description=""/>
+      <property name="MANUFACTURER" value=""/>
+      <property name="Description" value="Board to Board &amp; Mezzanine Connectors 1.00 mm Surface Mount Micro Terminal Strip"/>
+      <property name="Manufacturer" value="Samtec"/>
+      <property name="Manufacturer P/N" value="FTMH-106-03-L-DV"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Vendor P/N" value="200-FTMH10603LDV"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000620b1618</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.2u</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0029_DFE201210U_reference.pdf</datasheet>
+      <fields>
+        <field name="Description">2.2 µH Shielded Wirewound Inductor 1.2 A 228mOhm Max 0805 (2012 Metric) -</field>
+        <field name="Manufacturer">Murata Electronics</field>
+        <field name="Manufacturer P/N">DFE201210U-2R2M=P2</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">490-16592-2-ND</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Manufacturer" value="Murata Electronics"/>
+      <property name="Description" value="2.2 µH Shielded Wirewound Inductor 1.2 A 228mOhm Max 0805 (2012 Metric) -"/>
+      <property name="Manufacturer P/N" value="DFE201210U-2R2M=P2"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="490-16592-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a9feb6</tstamps>
+    </comp>
+    <comp ref="MCLK1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b2951e</tstamps>
+    </comp>
+    <comp ref="MDAT1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b35703</tstamps>
+    </comp>
+    <comp ref="MK1">
+      <value>ICS-41352</value>
+      <footprint>AcousticSwarm:MIC_ICS-41350</footprint>
+      <datasheet>https://invensense.tdk.com/wp-content/uploads/2016/10/DS-000048-ICS-41352-data-sheet-v1.0.pdf?ref_disty=digikey</datasheet>
+      <fields>
+        <field name="AVAILABILITY">Good</field>
+        <field name="DESCRIPTION">Digital, PDM Microphone MEMS (Silicon) 1.65 V ~ 3.63 V Omnidirectional (-26dB ±1dB @ 94dB SPL) Solder Pads</field>
+        <field name="Description">Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode</field>
+        <field name="Manufacturer">TDK-InvenSense</field>
+        <field name="Manufacturer P/N">ICS-41352</field>
+        <field name="PACKAGE">LGA-5 TDK-InvenSense</field>
+        <field name="PRICE">1.30 USD</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">1428-ICS-41352TR-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="ICS-41350-ICS-41350-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="PACKAGE" value="LGA-5 TDK-InvenSense"/>
+      <property name="DESCRIPTION" value="Digital, PDM Microphone MEMS (Silicon) 1.65 V ~ 3.63 V Omnidirectional (-26dB ±1dB @ 94dB SPL) Solder Pads"/>
+      <property name="MP" value=""/>
+      <property name="MF" value=""/>
+      <property name="PRICE" value="1.30 USD"/>
+      <property name="AVAILABILITY" value="Good"/>
+      <property name="Description" value="Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode"/>
+      <property name="Manufacturer" value="TDK-InvenSense"/>
+      <property name="Manufacturer P/N" value="ICS-41352"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="1428-ICS-41352TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061840f61</tstamps>
+    </comp>
+    <comp ref="MK2">
+      <value>ICS-41352</value>
+      <footprint>AcousticSwarm:MIC_ICS-41350</footprint>
+      <datasheet>https://invensense.tdk.com/wp-content/uploads/2016/10/DS-000048-ICS-41352-data-sheet-v1.0.pdf?ref_disty=digikey</datasheet>
+      <fields>
+        <field name="AVAILABILITY">Good</field>
+        <field name="DESCRIPTION">Digital, PDM Microphone MEMS (Silicon) 1.65 V ~ 3.63 V Omnidirectional (-26dB ±1dB @ 94dB SPL) Solder Pads</field>
+        <field name="Description">Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode</field>
+        <field name="Manufacturer">TDK-InvenSense</field>
+        <field name="Manufacturer P/N">ICS-41352</field>
+        <field name="PACKAGE">LGA-5 TDK-InvenSense</field>
+        <field name="PRICE">1.30 USD</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">1428-ICS-41352TR-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="ICS-41350-ICS-41350-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="PACKAGE" value="LGA-5 TDK-InvenSense"/>
+      <property name="DESCRIPTION" value="Digital, PDM Microphone MEMS (Silicon) 1.65 V ~ 3.63 V Omnidirectional (-26dB ±1dB @ 94dB SPL) Solder Pads"/>
+      <property name="MP" value=""/>
+      <property name="MF" value=""/>
+      <property name="PRICE" value="1.30 USD"/>
+      <property name="AVAILABILITY" value="Good"/>
+      <property name="Description" value="Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode"/>
+      <property name="Manufacturer" value="TDK-InvenSense"/>
+      <property name="Manufacturer P/N" value="ICS-41352"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="1428-ICS-41352TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619f83cc</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>BATT_TERM</value>
+      <footprint>Connector_JST:JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical</footprint>
+      <datasheet>https://www.jst-mfg.com/product/pdf/eng/eACH.pdf</datasheet>
+      <fields>
+        <field name="DESCRIPTION">Connector Header Surface Mount, Right Angle 2 position 0.047" (1.20mm)</field>
+        <field name="Description">Connector Header Surface Mount, Right Angle 2 position 0.047" (1.20mm)</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Manufacturer P/N">BM02B-ACHSS-GAN-ETF(LF)(SN</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">455-3277-2-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="CONN_2-conn-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="DESCRIPTION" value="Connector Header Surface Mount, Right Angle 2 position 0.047&quot; (1.20mm)"/>
+      <property name="Description" value="Connector Header Surface Mount, Right Angle 2 position 0.047&quot; (1.20mm)"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Manufacturer P/N" value="BM02B-ACHSS-GAN-ETF(LF)(SN"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="455-3277-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061fe45bb</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>COIL_TERM</value>
+      <footprint>TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm</footprint>
+      <libsource lib="Zooids-rescue" part="CONN_2-conn-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000619be67c</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>M2_TERM</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Zooids-rescue" part="CONN_2-conn-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061fe3d4e</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>M1_TERM</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Zooids-rescue" part="CONN_2-conn-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061fe37a9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061ccd4c8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>180R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000610205a4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061cca8d8</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061976f14</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a5691a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>NO</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622be360</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061aa84f2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061796390</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622fe622</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622bd98c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>NO</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622fc282</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>NO</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622c451a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622c5ff1</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>450302014072</value>
+      <footprint>AcousticSwarm:450302014072</footprint>
+      <datasheet>http://www.farnell.com/datasheets/1913864.pdf</datasheet>
+      <fields>
+        <field name="Description">Through Hole Slide Switch SPDT On-On 100 mA@ 42 V dc Slide</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer">Wurth Elektronik</field>
+        <field name="Manufacturer P/N">450302014072</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/450302014072/?qs=wr8lucFkNMU6apkTwV1tMg%3D%3D</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Vendor P/N">710-450302014072</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="450302014072-MicroSwitch-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="Through Hole Slide Switch SPDT On-On 100 mA@ 42 V dc Slide"/>
+      <property name="Height" value="2.65"/>
+      <property name="Manufacturer_Name" value=""/>
+      <property name="Manufacturer_Part_Number" value=""/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/450302014072/?qs=wr8lucFkNMU6apkTwV1tMg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Manufacturer" value="Wurth Elektronik"/>
+      <property name="Manufacturer P/N" value="450302014072"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Vendor P/N" value="710-450302014072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a3b469</tstamps>
+    </comp>
+    <comp ref="SCL1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b5a42a</tstamps>
+    </comp>
+    <comp ref="SDA1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061b40f71</tstamps>
+    </comp>
+    <comp ref="SP1">
+      <value>SPEAKER</value>
+      <footprint>AcousticSwarm:CUI_CMT-4023S-SMT-TR</footprint>
+      <datasheet>https://www.puiaudio.com/media/SpecSheet/SMT-0440-T-HT-R.pdf</datasheet>
+      <fields>
+        <field name="Description">Buzzers Transducer, Externally Driven Electromechanical/Magnetic 3 V 100mA 4kHz 70dB @ 3V, 10cm Surface Mount Solder Pads</field>
+        <field name="Manufacturer">PUI Audio, Inc.</field>
+        <field name="Manufacturer P/N">SMT-0440-T-HT-R</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">668-SMT-0440-T-HT-RTR-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="SPEAKER-device-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="Buzzers Transducer, Externally Driven Electromechanical/Magnetic 3 V 100mA 4kHz 70dB @ 3V, 10cm Surface Mount Solder Pads"/>
+      <property name="Manufacturer" value="PUI Audio, Inc."/>
+      <property name="Manufacturer P/N" value="SMT-0440-T-HT-R"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="668-SMT-0440-T-HT-RTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006172ed11</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>B38G3RGB</value>
+      <footprint>AcousticSwarm:B38G3RGB10D0003H2U1930</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B38G3RGB-10D0003H2U1930%20%20V1.9.pdf</datasheet>
+      <fields>
+        <field name="Description">Red, Green, Blue (RGB) - LED Indication - Discrete 2V Red, 3V Green, 3V Blue 0606 (1616 Metric)</field>
+        <field name="Manufacturer">Harvatek Corporation</field>
+        <field name="Manufacturer P/N">B38G3RGB-10D0003H2U1930</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">3147-B38G3RGB-10D0003H2U1930TR-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="B38G3RGB-ZooidsV2-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="Red, Green, Blue (RGB) - LED Indication - Discrete 2V Red, 3V Green, 3V Blue 0606 (1616 Metric)"/>
+      <property name="Manufacturer" value="Harvatek Corporation"/>
+      <property name="Manufacturer P/N" value="B38G3RGB-10D0003H2U1930"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="3147-B38G3RGB-10D0003H2U1930TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006231db5f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM3671TLX-3.3_NOPB</value>
+      <footprint>AcousticSwarm:LM3671TLX-3.3&amp;slash_NOPB</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3671</datasheet>
+      <fields>
+        <field name="Description">Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 600mA 5-WFBGA, DSBGA</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer P/N">LM3671TLX-3.3/NOPB</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">LM3671TLX-3.3/NOPBTR-ND</field>
+      </fields>
+      <libsource lib="LM3671TLX-3.3" part="LM3671TLX-3.3_NOPB" description=""/>
+      <property name="Description" value="Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 600mA 5-WFBGA, DSBGA"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer P/N" value="LM3671TLX-3.3/NOPB"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="LM3671TLX-3.3/NOPBTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061a8d202</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LTC4124</value>
+      <footprint>AcousticSwarm:LTC4124EV-TRMPBF</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4124.pdf</datasheet>
+      <fields>
+        <field name="Description">Wireless Charging ICs 100mA Wireless Li-Ion Charger</field>
+        <field name="Manufacturer">Analog Devices</field>
+        <field name="Manufacturer P/N">LTC4124EV#TRMPBF</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Vendor P/N">584-LTC4124EV#TRMPBF</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="LTC4124-ZooidsV2-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="Wireless Charging ICs 100mA Wireless Li-Ion Charger"/>
+      <property name="Manufacturer" value="Analog Devices"/>
+      <property name="Manufacturer P/N" value="LTC4124EV#TRMPBF"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Vendor P/N" value="584-LTC4124EV#TRMPBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006193ebe4</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MAX17048G+T10</value>
+      <footprint>AcousticSwarm:SON50P200X200X80-9N</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf</datasheet>
+      <fields>
+        <field name="Description">IC BATT MON LI-ION 1CELL 8TDFN</field>
+        <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
+        <field name="Manufacturer P/N">MAX17048G+T10</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">MAX17048G+T10TR-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="MAX17048G+T10-ZooidsV2-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="IC BATT MON LI-ION 1CELL 8TDFN"/>
+      <property name="Manufacturer" value="Analog Devices Inc./Maxim Integrated"/>
+      <property name="Manufacturer P/N" value="MAX17048G+T10"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="MAX17048G+T10TR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061af7f22</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>DRV8837CDSGR</value>
+      <footprint>AcousticSwarm:SON50P200X200X80-9N</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837c</datasheet>
+      <fields>
+        <field name="Description">IC HALF-BRIDGE DRVR PWM 8WSON</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer P/N">DRV8837CDSGR</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">296-47205-2-ND</field>
+      </fields>
+      <libsource lib="DRV8837CDSGR" part="DRV8837CDSGR" description=""/>
+      <property name="Description" value="IC HALF-BRIDGE DRVR PWM 8WSON"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer P/N" value="DRV8837CDSGR"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="296-47205-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061af9a4f</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>DRV8837CDSGR</value>
+      <footprint>AcousticSwarm:SON50P200X200X80-9N</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837c</datasheet>
+      <fields>
+        <field name="Description">IC HALF-BRIDGE DRVR PWM 8WSON</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="Manufacturer P/N">DRV8837CDSGR</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">296-47205-2-ND</field>
+      </fields>
+      <libsource lib="DRV8837CDSGR" part="DRV8837CDSGR" description=""/>
+      <property name="Description" value="IC HALF-BRIDGE DRVR PWM 8WSON"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="Manufacturer P/N" value="DRV8837CDSGR"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="296-47205-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061afbed9</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MC3419</value>
+      <footprint>Package_LGA:LGA-12_2x2mm_P0.5mm</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/821/MEMSIC_MC3419_Datasheet-1889799.pdf</datasheet>
+      <fields>
+        <field name="Description">Accelerometers Small Digital 3-axis Accelerometer Sensor</field>
+        <field name="Manufacturer">MEMSIC</field>
+        <field name="Manufacturer P/N">MC3419</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Vendor P/N">498-MC3419</field>
+      </fields>
+      <libsource lib="ZooidsV2" part="MC3419" description=""/>
+      <property name="Description" value="Accelerometers Small Digital 3-axis Accelerometer Sensor"/>
+      <property name="Manufacturer" value="MEMSIC"/>
+      <property name="Manufacturer P/N" value="MC3419"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Vendor P/N" value="498-MC3419"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000621de725</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>ISP1807-LR-RS</value>
+      <footprint>AcousticSwarm:ISP1807-LR-RS</footprint>
+      <datasheet>https://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP1807/isp_ble_DS1807.pdf</datasheet>
+      <fields>
+        <field name="Description">Bluetooth Bluetooth v5.0, Thread, Zigbee® Transceiver Module 2.402GHz ~ 2.48GHz Integrated, Trace Surface Mount</field>
+        <field name="Manufacturer">Insight SIP</field>
+        <field name="Manufacturer P/N">ISP1807-LR-RS</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">1786-1019-2-ND</field>
+      </fields>
+      <libsource lib="Zooids-rescue" part="ISP1807-LR-RS-ISP1807-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Description" value="Bluetooth Bluetooth v5.0, Thread, Zigbee® Transceiver Module 2.402GHz ~ 2.48GHz Integrated, Trace Surface Mount"/>
+      <property name="Manufacturer" value="Insight SIP"/>
+      <property name="Manufacturer P/N" value="ISP1807-LR-RS"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="1786-1019-2-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061776c54</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>MAX98357A</value>
+      <footprint>Package_BGA:Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf</datasheet>
+      <fields>
+        <field name="Description">IC AMP CLASS D MONO 3.2W 9WLP</field>
+        <field name="Manufacturer">Analog Devices Inc./Maxim Integrated</field>
+        <field name="Manufacturer P/N">MAX98357AEWL+T</field>
+        <field name="Vendor">Digi-key</field>
+        <field name="Vendor P/N">MAX98357AEWL+TTR-ND</field>
+      </fields>
+      <libsource lib="ZooidsV2" part="MAX98357A" description=""/>
+      <property name="Description" value="IC AMP CLASS D MONO 3.2W 9WLP"/>
+      <property name="Manufacturer" value="Analog Devices Inc./Maxim Integrated"/>
+      <property name="Manufacturer P/N" value="MAX98357AEWL+T"/>
+      <property name="Vendor" value="Digi-key"/>
+      <property name="Vendor P/N" value="MAX98357AEWL+TTR-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000621b8c62</tstamps>
+    </comp>
+    <comp ref="WCLK1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063047adb</tstamps>
+    </comp>
+    <comp ref="XINT1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Device.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006377d3fb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="10118192-0002LF" part="10118192-0002LF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">10118192-0002LF</field>
+        <field name="Footprint">AMPHENOL_10118192-0002LF</field>
+        <field name="MANUFACTURER">Amphenol</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.8mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+        <pin num="S5" name="SHIELD" type="passive"/>
+        <pin num="S6" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DRV8837CDSGR" part="DRV8837CDSGR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV8837CDSGR</field>
+        <field name="Footprint">SON50P200X200X80-9N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VM" type="power_in"/>
+        <pin num="2" name="OUT1" type="output"/>
+        <pin num="3" name="OUT2" type="output"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="IN2" type="input"/>
+        <pin num="6" name="IN1" type="input"/>
+        <pin num="7" name="NSLEEP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="EPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FTMH-106-03-L-DV" part="FTMH-106-03-L-DV">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">FTMH-106-03-L-DV</field>
+        <field name="Footprint">SAMTEC_FTMH-106-03-L-DV</field>
+        <field name="MANUFACTURER">SAMTEC</field>
+      </fields>
+      <pins>
+        <pin num="01" name="01" type="passive"/>
+        <pin num="02" name="02" type="passive"/>
+        <pin num="03" name="03" type="passive"/>
+        <pin num="04" name="04" type="passive"/>
+        <pin num="05" name="05" type="passive"/>
+        <pin num="06" name="06" type="passive"/>
+        <pin num="07" name="07" type="passive"/>
+        <pin num="08" name="08" type="passive"/>
+        <pin num="09" name="09" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM3671TLX-3.3" part="LM3671TLX-3.3_NOPB">
+      <footprints>
+        <fp>TLA05CBA</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM3671TLX-3.3_NOPB</field>
+        <field name="Footprint">TLA05CBA</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="VIN" type="power_in"/>
+        <pin num="A3" name="GND" type="power_in"/>
+        <pin num="B2" name="SW" type="power_in"/>
+        <pin num="C1" name="EN" type="input"/>
+        <pin num="C3" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="450302014072-MicroSwitch-Zooids-rescue-Zooids-rescue">
+      <docs>http://www.farnell.com/datasheets/1913864.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">Zooids-rescue_450302014072-MicroSwitch-Zooids-rescue-Zooids-rescue</field>
+        <field name="Footprint">450302014072</field>
+        <field name="Datasheet">http://www.farnell.com/datasheets/1913864.pdf</field>
+        <field name="Description">Through Hole Slide Switch SPDT On-On 100 mA@ 42 V dc Slide</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">450302014072</field>
+        <field name="Mouser Part Number">710-450302014072</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/450302014072/?qs=wr8lucFkNMU6apkTwV1tMg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="NO" type="passive"/>
+        <pin num="3" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="B38G3RGB-ZooidsV2-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Zooids-rescue_B38G3RGB-ZooidsV2-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GC" type="input"/>
+        <pin num="2" name="BC" type="input"/>
+        <pin num="3" name="VCC" type="input"/>
+        <pin num="4" name="RC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="C-Device-Zooids-rescue-Zooids-rescue">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Zooids-rescue_C-Device-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="C-w_device-Zooids-rescue-Zooids-rescue">
+      <footprints>
+        <fp>C?</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Zooids-rescue_C-w_device-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="CONN_2-conn-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Zooids-rescue_CONN_2-conn-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="PM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="ICS-41350-ICS-41350-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">MK</field>
+        <field name="Value">Zooids-rescue_ICS-41350-ICS-41350-Zooids-rescue-Zooids-rescue</field>
+        <field name="Footprint">MIC_ICS-41350</field>
+        <field name="PACKAGE">LGA-5 TDK-InvenSense</field>
+        <field name="DESCRIPTION">Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode</field>
+        <field name="MP">ICS-41350</field>
+        <field name="MF">TDK-InvenSense</field>
+        <field name="PRICE">1.30 USD</field>
+        <field name="AVAILABILITY">Good</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DATA" type="output"/>
+        <pin num="2" name="SELECT" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="CLK" type="input"/>
+        <pin num="5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="ISP1807-LR-RS-ISP1807-Zooids-rescue-Zooids-rescue">
+      <footprints>
+        <fp>ISP1807-LR-RS</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Zooids-rescue_ISP1807-LR-RS-ISP1807-Zooids-rescue-Zooids-rescue</field>
+        <field name="Footprint">ISP1807-LR-RS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="P0_09_NFC1" type="bidirectional"/>
+        <pin num="3" name="P0_12_TRACEDATA1" type="bidirectional"/>
+        <pin num="4" name="P0_10_NFC2" type="bidirectional"/>
+        <pin num="5" name="P0_14" type="bidirectional"/>
+        <pin num="6" name="P026" type="bidirectional"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="D+" type="bidirectional"/>
+        <pin num="9" name="P0_16" type="bidirectional"/>
+        <pin num="10" name="D-" type="bidirectional"/>
+        <pin num="11" name="P0_21" type="bidirectional"/>
+        <pin num="12" name="VBUS" type="power_in"/>
+        <pin num="13" name="P0_18_RESET" type="bidirectional"/>
+        <pin num="14" name="VSS" type="power_in"/>
+        <pin num="15" name="P0_20" type="bidirectional"/>
+        <pin num="16" name="VSS" type="power_in"/>
+        <pin num="17" name="P0_22" type="bidirectional"/>
+        <pin num="18" name="VSS" type="power_in"/>
+        <pin num="19" name="P0_24" type="bidirectional"/>
+        <pin num="20" name="OUT_ANT" type="bidirectional"/>
+        <pin num="21" name="VSS" type="power_in"/>
+        <pin num="22" name="OUT_MOD" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VSS" type="power_in"/>
+        <pin num="25" name="VSS" type="power_in"/>
+        <pin num="26" name="VCC_NRF" type="power_in"/>
+        <pin num="27" name="P0_17" type="bidirectional"/>
+        <pin num="28" name="SWDIO" type="bidirectional"/>
+        <pin num="29" name="P0_13" type="bidirectional"/>
+        <pin num="30" name="SWDCLK" type="input"/>
+        <pin num="31" name="VSS" type="power_in"/>
+        <pin num="32" name="P0_08" type="bidirectional"/>
+        <pin num="33" name="P0_07_TRACECLK" type="bidirectional"/>
+        <pin num="34" name="P0_06" type="bidirectional"/>
+        <pin num="35" name="P0_04_AIN2" type="input"/>
+        <pin num="36" name="P0_05_AIN3" type="input"/>
+        <pin num="37" name="P0_15" type="bidirectional"/>
+        <pin num="38" name="P0_03_AIN1" type="input"/>
+        <pin num="39" name="P0_27" type="bidirectional"/>
+        <pin num="40" name="P0_02_AIN0" type="bidirectional"/>
+        <pin num="41" name="P0_25" type="bidirectional"/>
+        <pin num="42" name="P0_31_AIN7" type="input"/>
+        <pin num="43" name="P0_11_TRACEDATA" type="bidirectional"/>
+        <pin num="44" name="P0_30_AIN6" type="input"/>
+        <pin num="45" name="P0_19" type="bidirectional"/>
+        <pin num="46" name="P0_29_AIN5" type="input"/>
+        <pin num="47" name="P0_23" type="bidirectional"/>
+        <pin num="48" name="P0_28_AIN4" type="input"/>
+        <pin num="49" name="P1_02" type="bidirectional"/>
+        <pin num="50" name="P1_06" type="bidirectional"/>
+        <pin num="51" name="P1_15" type="bidirectional"/>
+        <pin num="52" name="P1_14" type="bidirectional"/>
+        <pin num="53" name="P1_13" type="bidirectional"/>
+        <pin num="54" name="P1_05" type="bidirectional"/>
+        <pin num="55" name="P1_08" type="bidirectional"/>
+        <pin num="56" name="P1_09_TRACEDATA3" type="bidirectional"/>
+        <pin num="57" name="P1_00_TRACEDATA0" type="bidirectional"/>
+        <pin num="58" name="P1_03" type="bidirectional"/>
+        <pin num="59" name="P1_12" type="bidirectional"/>
+        <pin num="60" name="P1_10" type="bidirectional"/>
+        <pin num="61" name="P1_11" type="bidirectional"/>
+        <pin num="62" name="P1_07" type="bidirectional"/>
+        <pin num="63" name="P1_04" type="bidirectional"/>
+        <pin num="64" name="P1_01" type="bidirectional"/>
+        <pin num="65" name="NC" type="no_connect"/>
+        <pin num="66" name="NC" type="no_connect"/>
+        <pin num="67" name="NC" type="no_connect"/>
+        <pin num="68" name="NC" type="no_connect"/>
+        <pin num="69" name="NC" type="no_connect"/>
+        <pin num="70" name="NC" type="no_connect"/>
+        <pin num="71" name="NC" type="no_connect"/>
+        <pin num="72" name="NC" type="no_connect"/>
+        <pin num="73" name="NC" type="no_connect"/>
+        <pin num="74" name="NC" type="no_connect"/>
+        <pin num="75" name="NC" type="no_connect"/>
+        <pin num="76" name="NC" type="no_connect"/>
+        <pin num="77" name="NC" type="no_connect"/>
+        <pin num="78" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="LTC4124-ZooidsV2-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Zooids-rescue_LTC4124-ZooidsV2-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="~{CHRG}" type="input"/>
+        <pin num="3" name="PRECHG" type="input"/>
+        <pin num="4" name="VSEL1" type="input"/>
+        <pin num="5" name="VSEL2" type="input"/>
+        <pin num="6" name="ISEL1" type="input"/>
+        <pin num="7" name="ISEL2" type="input"/>
+        <pin num="8" name="LBSEL" type="input"/>
+        <pin num="9" name="NTC" type="input"/>
+        <pin num="10" name="BAT" type="input"/>
+        <pin num="11" name="ACIN" type="input"/>
+        <pin num="12" name="DCIN" type="input"/>
+        <pin num="13" name="EPAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="MAX17048G+T10-ZooidsV2-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Zooids-rescue_MAX17048G+T10-ZooidsV2-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CTG" type="input"/>
+        <pin num="2" name="CELL" type="input"/>
+        <pin num="3" name="VDD" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="~{ALRT}" type="input"/>
+        <pin num="6" name="QSTRT" type="input"/>
+        <pin num="7" name="SCL" type="input"/>
+        <pin num="8" name="SDA" type="input"/>
+        <pin num="9" name="EPAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="R_US-Device-Zooids-rescue-Zooids-rescue">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Zooids-rescue_R_US-Device-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="SPEAKER-device-Zooids-rescue-Zooids-rescue">
+      <fields>
+        <field name="Reference">SP</field>
+        <field name="Value">Zooids-rescue_SPEAKER-device-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Zooids-rescue" part="TestPoint-Connector-Zooids-rescue-Zooids-rescue">
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">Zooids-rescue_TestPoint-Connector-Zooids-rescue-Zooids-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ZooidsV2" part="MAX98357A">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX98357A</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="~{SD_MODE}" type="input"/>
+        <pin num="A2" name="VDD" type="input"/>
+        <pin num="A3" name="OUTP" type="input"/>
+        <pin num="B1" name="DIN" type="input"/>
+        <pin num="B2" name="GAIN" type="input"/>
+        <pin num="B3" name="OUTN" type="input"/>
+        <pin num="C1" name="BCLK" type="input"/>
+        <pin num="C2" name="GND" type="input"/>
+        <pin num="C3" name="LRCLK" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ZooidsV2" part="MC3419">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MC3419</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT_A6" type="input"/>
+        <pin num="2" name="SDA" type="input"/>
+        <pin num="3" name="NC" type="input"/>
+        <pin num="4" name="VPP" type="input"/>
+        <pin num="5" name="INTN1" type="input"/>
+        <pin num="6" name="INTN2" type="input"/>
+        <pin num="7" name="VDDIO" type="input"/>
+        <pin num="8" name="GND" type="input"/>
+        <pin num="9" name="GND" type="input"/>
+        <pin num="10" name="CSN/VDD" type="input"/>
+        <pin num="11" name="NC" type="input"/>
+        <pin num="12" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="10118192-0002LF">
+      <uri>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/Robot/../libs/10118192-0002LF.lib</uri>
+    </library>
+    <library logical="DRV8837CDSGR">
+      <uri>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/Robot/../libs/DRV8837CDSGR.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="FTMH-106-03-L-DV">
+      <uri>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/Robot/../libs/FTMH-106-03-L-DV.lib</uri>
+    </library>
+    <library logical="LM3671TLX-3.3">
+      <uri>/home/malek/UW/Projects/SonoZooid/AcousticSwarm/Hardware/Robot/../libs/LM3671TLX-3.3.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="J2" pin="03" pinfunction="03" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VCC" pintype="input"/>
+      <node ref="U2" pin="C3" pinfunction="FB" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="VM" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="VM" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="CSN/VDD" pintype="input"/>
+      <node ref="U7" pin="7" pinfunction="VDDIO" pintype="input"/>
+      <node ref="U8" pin="26" pinfunction="VCC_NRF" pintype="power_in"/>
+      <node ref="U9" pin="A2" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="2" name="/BAT_INT">
+      <node ref="BINT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="~{ALRT}" pintype="input"/>
+      <node ref="U8" pin="48" pinfunction="P0_28_AIN4" pintype="input"/>
+    </net>
+    <net code="3" name="/CHRG_VCC">
+      <node ref="U3" pin="1" pinfunction="VCC" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="PRECHG" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="VSEL1" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="ISEL1" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="ISEL2" pintype="input"/>
+    </net>
+    <net code="4" name="/Coil1">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="ACIN" pintype="input"/>
+    </net>
+    <net code="5" name="/DRV_SLEEP">
+      <node ref="DRV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="NSLEEP" pintype="input"/>
+      <node ref="U6" pin="7" pinfunction="NSLEEP" pintype="input"/>
+      <node ref="U8" pin="11" pinfunction="P0_21" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/I2C_SCL">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SCL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="SCL" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="SCL" pintype="input"/>
+      <node ref="U8" pin="32" pinfunction="P0_08" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/I2C_SDA">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="SDA1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="SDA" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="SDA" pintype="input"/>
+      <node ref="U8" pin="35" pinfunction="P0_04_AIN2" pintype="input"/>
+    </net>
+    <net code="8" name="/I2S_BCLK">
+      <node ref="BCLK1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="29" pinfunction="P0_13" pintype="bidirectional"/>
+      <node ref="U9" pin="C1" pinfunction="BCLK" pintype="input"/>
+    </net>
+    <net code="9" name="/I2S_DIN">
+      <node ref="DIN1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U8" pin="27" pinfunction="P0_17" pintype="bidirectional"/>
+      <node ref="U9" pin="B1" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="/I2S_WCLK">
+      <node ref="U8" pin="57" pinfunction="P1_00_TRACEDATA0" pintype="bidirectional"/>
+      <node ref="U9" pin="C3" pinfunction="LRCLK" pintype="input"/>
+      <node ref="WCLK1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/LED_B">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="P0_10_NFC2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/LED_G">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="P026" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/LED_R">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="P0_09_NFC1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/MIC_CLK">
+      <node ref="MCLK1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MK1" pin="4" pinfunction="CLK" pintype="input"/>
+      <node ref="MK2" pin="4" pinfunction="CLK" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="P0_14" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/MIC_DATA">
+      <node ref="MDAT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MK1" pin="1" pinfunction="DATA" pintype="output"/>
+      <node ref="MK2" pin="1" pinfunction="DATA" pintype="output"/>
+      <node ref="U8" pin="9" pinfunction="P0_16" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/MIC_ENABLE">
+      <node ref="MK1" pin="5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="MK2" pin="2" pinfunction="SELECT" pintype="input"/>
+      <node ref="MK2" pin="5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U8" pin="53" pinfunction="P1_13" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/MTR1_I1">
+      <node ref="U5" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="P0_12_TRACEDATA1" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/MTR1_I2">
+      <node ref="U5" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U8" pin="56" pinfunction="P1_09_TRACEDATA3" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/MTR1_N">
+      <node ref="P4" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="20" name="/MTR1_P">
+      <node ref="P4" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="21" name="/MTR2_I1">
+      <node ref="U6" pin="6" pinfunction="IN1" pintype="input"/>
+      <node ref="U8" pin="15" pinfunction="P0_20" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/MTR2_I2">
+      <node ref="U6" pin="5" pinfunction="IN2" pintype="input"/>
+      <node ref="U8" pin="17" pinfunction="P0_22" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/MTR2_N">
+      <node ref="P3" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="24" name="/MTR2_P">
+      <node ref="P3" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="25" name="/P0_05">
+      <node ref="J2" pin="04" pinfunction="04" pintype="passive"/>
+      <node ref="U8" pin="36" pinfunction="P0_05_AIN3" pintype="input"/>
+    </net>
+    <net code="26" name="/P0_06">
+      <node ref="J2" pin="02" pinfunction="02" pintype="passive"/>
+      <node ref="U8" pin="34" pinfunction="P0_06" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/P0_11">
+      <node ref="J2" pin="09" pinfunction="09" pintype="passive"/>
+      <node ref="U8" pin="43" pinfunction="P0_11_TRACEDATA" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/P0_15">
+      <node ref="J2" pin="06" pinfunction="06" pintype="passive"/>
+      <node ref="U8" pin="37" pinfunction="P0_15" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/P0_19">
+      <node ref="J2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U8" pin="45" pinfunction="P0_19" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/P0_23">
+      <node ref="J2" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="U8" pin="47" pinfunction="P0_23" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/P0_25">
+      <node ref="J2" pin="08" pinfunction="08" pintype="passive"/>
+      <node ref="U8" pin="41" pinfunction="P0_25" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/P0_27">
+      <node ref="J2" pin="07" pinfunction="07" pintype="passive"/>
+      <node ref="U8" pin="39" pinfunction="P0_27" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/P1_08">
+      <node ref="J2" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="U8" pin="55" pinfunction="P1_08" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/SWCLK">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U8" pin="30" pinfunction="SWDCLK" pintype="input"/>
+    </net>
+    <net code="35" name="/SWDIO">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U8" pin="28" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/VBAT">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="PM" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="BAT" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="CELL" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="37" name="/VBAT_SW">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="NO" pintype="passive"/>
+      <node ref="U2" pin="A1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U2" pin="C1" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="38" name="/VBUS">
+      <node ref="J1" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="DCIN" pintype="input"/>
+      <node ref="U8" pin="12" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="39" name="/XL_INT">
+      <node ref="U7" pin="5" pinfunction="INTN1" pintype="input"/>
+      <node ref="U8" pin="46" pinfunction="P0_29_AIN5" pintype="input"/>
+      <node ref="XINT1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="/~{CHRG}">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="~{CHRG}" pintype="input"/>
+      <node ref="U8" pin="44" pinfunction="P0_30_AIN6" pintype="input"/>
+    </net>
+    <net code="41" name="/~{RST}">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="ID" pintype="bidirectional"/>
+      <node ref="J2" pin="01" pinfunction="01" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="P0_18_RESET" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S5" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S6" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="05" pinfunction="05" pintype="passive"/>
+      <node ref="MK1" pin="2" pinfunction="SELECT" pintype="input"/>
+      <node ref="MK1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="MK2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="P1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="A3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="EPAD" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="VSEL2" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="CTG" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="QSTRT" pintype="input"/>
+      <node ref="U4" pin="9" pinfunction="EPAD" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="EPAD" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="EPAD" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="DOUT_A6" pintype="input"/>
+      <node ref="U7" pin="11" pinfunction="NC" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="VPP" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="9" pinfunction="GND" pintype="input"/>
+      <node ref="U8" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="14" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="16" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="18" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="21" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="24" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="25" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="31" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U9" pin="C2" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="B2" pinfunction="SW" pintype="power_in"/>
+    </net>
+    <net code="44" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="BC" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RC" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GC" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U9" pin="B2" pinfunction="GAIN" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U9" pin="A1" pinfunction="~{SD_MODE}" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="LBSEL" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(SP1-Pad1)">
+      <node ref="SP1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U9" pin="A3" pinfunction="OUTP" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(SP1-Pad2)">
+      <node ref="SP1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U9" pin="B3" pinfunction="OUTN" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(U8-Pad20)">
+      <node ref="U8" pin="20" pinfunction="OUT_ANT" pintype="bidirectional"/>
+      <node ref="U8" pin="22" pinfunction="OUT_MOD" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(S1-Pad3)">
+      <node ref="S1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="NTC" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="NC" pintype="input+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U7-Pad6)">
+      <node ref="U7" pin="6" pinfunction="INTN2" pintype="input+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U8-Pad8)">
+      <node ref="U8" pin="8" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U8-Pad10)">
+      <node ref="U8" pin="10" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U8-Pad19)">
+      <node ref="U8" pin="19" pinfunction="P0_24" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U8-Pad33)">
+      <node ref="U8" pin="33" pinfunction="P0_07_TRACECLK" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U8-Pad38)">
+      <node ref="U8" pin="38" pinfunction="P0_03_AIN1" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(U8-Pad40)">
+      <node ref="U8" pin="40" pinfunction="P0_02_AIN0" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U8-Pad42)">
+      <node ref="U8" pin="42" pinfunction="P0_31_AIN7" pintype="input"/>
+    </net>
+    <net code="64" name="unconnected-(U8-Pad49)">
+      <node ref="U8" pin="49" pinfunction="P1_02" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U8-Pad50)">
+      <node ref="U8" pin="50" pinfunction="P1_06" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U8-Pad51)">
+      <node ref="U8" pin="51" pinfunction="P1_15" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U8-Pad52)">
+      <node ref="U8" pin="52" pinfunction="P1_14" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U8-Pad54)">
+      <node ref="U8" pin="54" pinfunction="P1_05" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U8-Pad58)">
+      <node ref="U8" pin="58" pinfunction="P1_03" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U8-Pad59)">
+      <node ref="U8" pin="59" pinfunction="P1_12" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U8-Pad60)">
+      <node ref="U8" pin="60" pinfunction="P1_10" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="unconnected-(U8-Pad61)">
+      <node ref="U8" pin="61" pinfunction="P1_11" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U8-Pad62)">
+      <node ref="U8" pin="62" pinfunction="P1_07" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="unconnected-(U8-Pad63)">
+      <node ref="U8" pin="63" pinfunction="P1_04" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(U8-Pad64)">
+      <node ref="U8" pin="64" pinfunction="P1_01" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(U8-Pad65)">
+      <node ref="U8" pin="65" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U8-Pad66)">
+      <node ref="U8" pin="66" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(U8-Pad67)">
+      <node ref="U8" pin="67" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(U8-Pad68)">
+      <node ref="U8" pin="68" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U8-Pad69)">
+      <node ref="U8" pin="69" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U8-Pad70)">
+      <node ref="U8" pin="70" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(U8-Pad71)">
+      <node ref="U8" pin="71" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U8-Pad72)">
+      <node ref="U8" pin="72" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U8-Pad73)">
+      <node ref="U8" pin="73" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U8-Pad74)">
+      <node ref="U8" pin="74" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U8-Pad75)">
+      <node ref="U8" pin="75" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U8-Pad76)">
+      <node ref="U8" pin="76" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U8-Pad77)">
+      <node ref="U8" pin="77" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U8-Pad78)">
+      <node ref="U8" pin="78" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

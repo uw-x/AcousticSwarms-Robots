@@ -1,0 +1,26 @@
+Component,Description,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,CAP CER 0.1UF 25V X5R 0402,C1 C2 C3,100nF,C_0402_1005Metric,3,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf
+2,CAP CER 10UF 16V X6S 0603,C4,10uF,C_0402_1005Metric,1,https://datasheets.kyocera-avx.com/x6s-dielectric.pdf
+3,TRANS NPN 45V 0.5A TO236AB,Q1,Q_NPN_BEC,SOT-23,1,https://www.digikey.com/en/products/detail/nexperia-usa-inc/BC817-40-215/763235
+4,RES 100 OHM 1% 1/16W 0402,R2 R4,100,R_0402_1005Metric,2,https://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+5,RES 1K OHM 1% 1/16W 0402,R1,1k,R_0402_1005Metric,1,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_10.pdf
+6,RES SMD 10K OHM 5% 1/5W 0402,R6 R7 R8,10k,R_0402_1005Metric,3,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr-e.pdf
+7,RES 30K OHM 1% 1/16W 0402,R3 R5,30k,R_0402_1005Metric,2,https://www.digikey.com/en/products/detail/yageo/RC0402FR-0730KL/726586
+8,PHOTOINTERRUPTER REFLEC 3MM SMD,U1 U2,GP2S700HCP,GP2S700HCP,2,https://global.sharp/products/device/lineup/data/pdf/datasheet/gp2s700hcp_e.pdf
+9,IC COMPARATOR 2 GEN PUR 8UFSON,U3,LM293QT,DFN-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm,1,https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Component Groups:,10,,,,,
+Component Count:,17,,,,,
+Fitted Components:,16,,,,,
+Number of PCBs:,1,,,,,
+Total components:,16,,,,,
+Schematic Version:,,,,,,
+Schematic Date:,,,,,,
+PCB Variant:,default,,,,,
+BoM Date:,Fri 04 Aug 2023 09:10:59 AM,,,,,
+Schematic Source:,SensorBar.kicad_sch,,,,,
+KiCad Version:,Eeschema 6.0.2+dfsg-1,,,,,

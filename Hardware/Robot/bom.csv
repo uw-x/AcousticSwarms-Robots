@@ -1,0 +1,28 @@
+#,References,Value,Datasheet,Description,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Quantity,Notes
+1,">  C3, C8",dnp,,Do Not Place,,,,,2,
+2,">  C4, C5",4.7uF,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10A475KQ8NNNC_Spec.pdf,CAP CER 4.7UF 10V X5R 0603,Samsung Electro-Mechanics,CL10A475KQ8NNNC,Digi-key,1276-1045-2-ND,2,
+3,    C7,10uF,https://datasheets.kyocera-avx.com/x6s-dielectric.pdf,CAP CER 10UF 16V X6S 0603,KYOCERA AVX,0603YW106MAT2A,Digi-key,478-0603YW106MAT2ATR-ND,1,
+4,">  C1, C2, C6, C10-C12, C14",100nF,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf,CAP CER 0.1UF 25V X5R 0402,Samsung Electro-Mechanics,CL05A104KA5NNNC,Digi-key,1276-1043-2-ND,7,
+5,    J1,10118194-0001LF,https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf,"USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole",Amphenol ICC (FCI),10118194-0001LF,Digi-key,609-4618-2-ND,1,
+6,    J2,FTMH-106-03-L-DV,https://www.mouser.com/datasheet/2/527/ftmh_sm-2854321.pdf,Board to Board & Mezzanine Connectors 1.00 mm Surface Mount Micro Terminal Strip,Samtec,FTMH-106-03-L-DV,Mouser,200-FTMH10603LDV,1,
+7,    L1,2.2u,https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0029_DFE201210U_reference.pdf,2.2 µH Shielded Wirewound Inductor 1.2 A 228mOhm Max 0805 (2012 Metric) -,Murata Electronics,DFE201210U-2R2M=P2,Digi-key,490-16592-2-ND,1,
+8,">  MK1, MK2",ICS-41352,https://invensense.tdk.com/wp-content/uploads/2016/10/DS-000048-ICS-41352-data-sheet-v1.0.pdf?ref_disty=digikey,Bottom Port PDM Low Power muti-Mode Microphone with high AOP Mode,TDK-InvenSense,ICS-41352,Digi-key,1428-ICS-41352TR-ND,2,
+9,    P1,BATT_TERM,https://www.jst-mfg.com/product/pdf/eng/eACH.pdf,"Connector Header Surface Mount, Right Angle 2 position 0.047"" (1.20mm)",JST Sales America Inc.,BM02B-ACHSS-GAN-ETF(LF)(SN,Digi-key,455-3277-2-ND,1,
+10,    P3,M2_TERM,,Do Not Place,,,,,1,Solder motor leads here
+11,    P4,M1_TERM,,Do Not Place,,,,,1,Solder motor leads here
+12,">  R1, R3",50R,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_10.pdf,RES SMD 50 OHM 5% 1/16W 0402,YAGEO,AC0402JR-0750RL,Digi-key,13-AC0402JR-0750RLTR-ND,2,
+13,    R2,180R,https://www.te.com/usa-en/product-5-2176337-2.datasheet.pdf,RES 180 OHM 1% 1/16W 0402,TE Connectivity Passive Product,CRGCQ0402F180K,Digi-key,A129654TR-ND,1,
+14,">  R4, R5, R7",10K,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr-e.pdf,RES SMD 10K OHM 5% 1/5W 0402,Rohm Semiconductor,ESR01MZPJ103,Digi-key,RHM1003TR-ND,3,
+15,">  R6, R11, R12",dnp,,Do Not Place,,,,,3,
+16,    R8,100K,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf,RES SMD 100K OHM 0.1% 1/16W 0402,YAGEO,RT0402BRE07100KL,Digi-key,YAG2304TR-ND,1,
+17,">  R9, R10, R13",0R,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf,RES 0 OHM JUMPER 1/16W 0402,Stackpole Electronics Inc,RMCF0402ZT0R00,Digi-key,RMCF0402ZT0R00TR-ND,3,
+18,    S1,450302014072,http://www.farnell.com/datasheets/1913864.pdf,Through Hole Slide Switch SPDT On-On 100 mA@ 42 V dc Slide,Wurth Elektronik,450302014072,Mouser,710-450302014072,1,
+19,SP1,SPEAKER,http://puiaudio.com/pdf/AS01008MR-3-LW100-R.pdf,  8 Ohms General Purpose Speaker 500 mW 800 Hz ~ 20 kHz Top Round,"PUI Audio, Inc.",AS01008MR-3-LW100-R,Digi-key,668-AS01008MR-3-LW100-R-ND,1,"Footprint should not match speaker. During fabrication, DO NOT PLACE ANY COMPONENT HERE. Manually solder speaker leads after receiving boards instead."
+20,    U1,B38G3RGB,https://media.digikey.com/pdf/Data%20Sheets/Harvatek%20PDFs/B38G3RGB-10D0003H2U1930%20%20V1.9.pdf,"Red, Green, Blue (RGB) - LED Indication - Discrete 2V Red, 3V Green, 3V Blue 0606 (1616 Metric)",Harvatek Corporation,B38G3RGB-10D0003H2U1930,Digi-key,3147-B38G3RGB-10D0003H2U1930TR-ND,1,
+21,    U2,LM3671TLX-3.3_NOPB,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3671,"Buck Switching Regulator IC Positive Fixed 3.3V 1 Output 600mA 5-WFBGA, DSBGA",Texas Instruments,LM3671TLX-3.3/NOPB,Digi-key,LM3671TLX-3.3/NOPBTR-ND,1,
+22,    U3,LTC4124,https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4124.pdf,Wireless Charging ICs 100mA Wireless Li-Ion Charger,Analog Devices,LTC4124EV#TRMPBF,Mouser,584-LTC4124EV#TRMPBF,1,
+23,    U4,MAX17048G+T10,https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf,IC BATT MON LI-ION 1CELL 8TDFN,Analog Devices Inc./Maxim Integrated,MAX17048G+T10,Digi-key,MAX17048G+T10TR-ND,1,
+24,">  U5, U6",DRV8837CDSGR,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837c,IC HALF-BRIDGE DRVR PWM 8WSON,Texas Instruments,DRV8837CDSGR,Digi-key,296-47205-2-ND,2,
+25,    U7,MC3419,https://www.mouser.com/datasheet/2/821/MEMSIC_MC3419_Datasheet-1889799.pdf,Accelerometers Small Digital 3-axis Accelerometer Sensor,MEMSIC,MC3419,Mouser,498-MC3419,1,
+26,    U8,ISP1807-LR-RS,https://www.insightsip.com/fichiers_insightsip/pdf/ble/ISP1807/isp_ble_DS1807.pdf,"Bluetooth Bluetooth v5.0, Thread, Zigbee® Transceiver Module 2.402GHz ~ 2.48GHz Integrated, Trace Surface Mount",Insight SIP,ISP1807-LR-RS,Digi-key,1786-1019-2-ND,1,
+27,    U9,MAX98357A,https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf,IC AMP CLASS D MONO 3.2W 9WLP,Analog Devices Inc./Maxim Integrated,MAX98357AEWL+T,Digi-key,MAX98357AEWL+TTR-ND,1,

@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# CMT-4023S-SMT-TR
+#
+DEF CMT-4023S-SMT-TR LS 0 40 N N 1 L N
+F0 "LS" -150 350 50 H V L BNN
+F1 "CMT-4023S-SMT-TR" -150 -451 50 H V L BNN
+F2 "CUI_CMT-4023S-SMT-TR" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "CUI INC" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "1.0" 0 0 50 H I L BNN "PARTREV"
+F6 "Manufacturer recommendations" 0 0 50 H I L BNN "STANDARD"
+DRAW
+P 2 0 0 10 -25 50 0 50 N
+P 2 0 0 10 0 50 25 50 N
+P 2 0 0 10 25 50 25 -50 N
+P 2 0 0 10 25 -50 0 -50 N
+P 2 0 0 10 0 -50 -25 -50 N
+P 2 0 0 10 -25 -50 -25 50 N
+P 2 0 0 10 25 50 75 125 N
+P 2 0 0 10 75 125 75 -125 N
+P 2 0 0 10 75 -125 25 -50 N
+P 2 0 0 10 0 50 0 100 N
+P 2 0 0 10 0 -50 0 -100 N
+T 0 -75 50 70 0 0 0 + Normal 0 L B
+X ~ P 0 200 100 D 40 40 0 0 P 
+X ~ N 0 -200 100 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AcousticSwarm")(type "KiCad")(uri "../libs/footprints.pretty")(options "")(descr ""))
+)

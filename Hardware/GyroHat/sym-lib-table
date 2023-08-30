@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "FTMH-106-03-L-DV")(type "Legacy")(uri "../libs/FTMH-106-03-L-DV.lib")(options "")(descr ""))
+  (lib (name "ISM330DLCTR")(type "Legacy")(uri "../libs/ISM330DLCTR.lib")(options "")(descr ""))
+)

@@ -1,0 +1,1 @@
+{"robots": {"0xe16061e5b9e9": {"name": "A"}, "0x747305f98ecd": {"name": "B"}, "0xf078363ba2fa": {"name": "C"}, "0x44a29dd94eea": {"name": "D"}, "0x477d3627c7d3": {"name": "E"}, "0xb45a795603ef": {"name": "F"}, "0xcbbe980fe7d0": {"name": "G"}, "0xa4e2b6a52ceb": {"name": "H"}}}
